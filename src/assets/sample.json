@@ -1,0 +1,32 @@
+[{
+    "company" : "tcs",
+    "sale" : 120,
+    "product" : "monitor",
+    "year" : 1994
+},
+{
+    "company" : "hp",
+    "sale" : 120,
+    "product" : "monitor",
+    "year" : 1994
+},
+{
+    "company" : "cts",
+    "sale" : 896,
+    "product" : "monitor",
+    "year" : 1994
+},
+{
+    "company" : "tcs",
+    "sale" : 167,
+    "product" : "keyboad",
+    "year" : 1994
+},
+{
+    "company" : "hp",
+    "sale" : 99,
+    "product" : "keyboad",
+    "year" : 1994
+}
+
+]

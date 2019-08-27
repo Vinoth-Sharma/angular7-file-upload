@@ -12,10 +12,14 @@ export class UploadFileComponent  {
   uploadFile(event) {
     for (let index = 0; index < event.length; index++) {
       const element = event[index];
+      console.log(element);
+      
       this.files.push(element.name)
     }  
   }
+
   deleteAttachment(index) {
+    console.log(index)
     this.files.splice(index, 1)
   }
 }
